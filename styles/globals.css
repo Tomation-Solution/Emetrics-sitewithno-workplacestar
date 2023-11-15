@@ -1,0 +1,15 @@
+.request-demo-button{
+    background-color:#14a7e5;
+    color: white ;
+    width: 100%;
+    background-color: #14A7E5;
+    color: whitesmoke;
+    font-weight: 600;
+    padding: 1rem 1rem;
+    /* padding: 0.2rem 0.2em; */
+    box-shadow: 0px 4px 4px rgba(20,167,229,0.3);
+    border-radius: 5px;
+    cursor: pointer;
+    width: fit-content;
+    min-width: fit-content;
+}
