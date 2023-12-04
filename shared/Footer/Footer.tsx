@@ -23,9 +23,12 @@ const Footer = ():React.ReactElement=>{
               <img src={EmetricLogo.src} alt="" />
             </NavLogoContainer>
             <br />
-            <p>9304 Forest lane, Suite S207 Dallas, Texas 75243</p>
+            <p>
+            Africa Re Building, Plot 169 Karimu Ikotun Street, Victoria Island,Lagos
+            </p>
+            {/* <p>9304 Forest lane, Suite S207 Dallas, Texas 75243</p> */}
             <p>Email : info@emetricsuite.com</p>
-            <p>Contact : +1 (504) 499-5921</p>
+            <p>Contact : +234 905 407 7660</p>
             <div className="socials">
                     
             </div>
